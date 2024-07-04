@@ -12,7 +12,6 @@ Welcome to Techno Trivo Quiz, where you can test your knowledge in the fascinati
 Instructions:
 - Read each question carefully.
 - Select the correct answer from the given options.
-- Use the 'Next Quiz' button to progress to the next set of questions.
 - A total of 10 questions await your expertise.
 
 Best of luck! Let's begin the journey into the world of Computer Science.
@@ -57,8 +56,8 @@ correct_answer_1 = "PITEX"
 
 
 question_2= "1 Terabyte (Tb) ="
-options_2="1,024GB","B - 1,000 Gb","C - 1,200 Gb","1,275 GB"
-correct_answer_2="1,275 GB"
+options_2="1,024GB","B - 1,000 Gb","C - 1,200 Gb","D -1,275 GB"
+correct_answer_2= "D -1,275 GB"
 
 question_3=" Which among the following is incorrectly matched?"
 options_3="A LAN Local Area Network","B - WAN Wide Area Network","C - MAN Main Area Network","D - IP Internet Protocol"
