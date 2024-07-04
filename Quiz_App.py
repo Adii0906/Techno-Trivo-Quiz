@@ -57,7 +57,7 @@ correct_answer_1 = "PITEX"
 
 question_2= "1 Terabyte (Tb) ="
 options_2="A - 1,024GB","B - 1,000 Gb","C - 1,200 Gb","D -1,275 GB"
-correct_answer_2= "A - 1,024 GB"
+correct_answer_2= "A - 1,024GB"
 
 question_3=" Which among the following is incorrectly matched?"
 options_3="A LAN Local Area Network","B - WAN Wide Area Network","C - MAN Main Area Network","D - IP Internet Protocol"
